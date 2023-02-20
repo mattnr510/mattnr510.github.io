@@ -1,0 +1,26 @@
+body{
+    background-color: blue;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 10%;
+}
+
+/* @font-face {
+    font-family: apple;
+    src: url(AppleGaramond-Bold.tff);
+    font-weight: bold;
+} */
+
+/* h1{
+    color: #66BFBF;
+    font-style: apple;
+} */
+
+h3{
+    color: #66BFBF;
+}
